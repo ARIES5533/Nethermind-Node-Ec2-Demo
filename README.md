@@ -1,1 +1,2 @@
-# Nethermind-Node-Ec2-Demo
+# Nethermind-Node-Demo
+Nethermind-Node-Demo
